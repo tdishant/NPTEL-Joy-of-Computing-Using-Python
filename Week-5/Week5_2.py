@@ -1,7 +1,7 @@
 
 import speech_recognition as sr
 
-AUDIO_FILE = ("19BCP036_Dishant Thakkar (Speaking Skills).wav")
+AUDIO_FILE = ("your_file.wav")
 #use audio file as source
 
 r = sr.Recognizer() #initialize the recognizer
